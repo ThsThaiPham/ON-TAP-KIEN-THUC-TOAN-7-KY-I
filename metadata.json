@@ -1,0 +1,6 @@
+{
+  "name": "ÔN TẬP KIẾN THỨC TOÁN 7 KỲ I",
+  "description": "Ứng dụng ôn tập kiến thức Toán 7 Kỳ I theo SGK & SGV Kết Nối Tri Thức Với Cuộc Sống (CT GDPT 2018). Tác giả: Thầy giáo Ths. Phạm Ngọc Thái.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
